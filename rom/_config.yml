@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fakeman's ROMs
+title: Fakeman's S6 ROMs
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Custom LineageOS and Android ROMs for the Galaxy S6 and S6 edge. 
@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  fakemanoan
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
