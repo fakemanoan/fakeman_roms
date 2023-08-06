@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  fakemanoan
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
